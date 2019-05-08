@@ -1,0 +1,73 @@
+{
+	"folders": [
+		{
+			"path": "00 pre-basic javaScript"
+		},
+		{
+			"path": "01 basic javaScript"
+		},
+		{
+			"path": "02 webApp - Capitalize"
+		},
+		{
+			"path": "03 webApp - Story-Teller Charm"
+		},
+		{
+			"path": "04 numbers-javaScript"
+		},
+		{
+			"path": "05 webApp - Die Roll"
+		},
+		{
+			"path": "06 conditionals-javaScript"
+		},
+		{
+			"path": "07 webApp - Quiz-Score"
+		},
+		{
+			"path": "08 functions-javaScript"
+		},
+		{
+			"path": "09 loops-javaScript"
+		},
+		{
+			"path": "10 webApp - BackgroundChange"
+		},
+		{
+			"path": "11 arrays-javaScript"
+		},
+		{
+			"path": "12 arrayPlaylists-javaScript"
+		},
+		{
+			"path": "13 arrayStoreSearch-javaScript"
+		},
+		{
+			"path": "14 2DarrayPlaylists-javaScript"
+		},
+		{
+			"path": "15 webApp - QuizApp"
+		},
+		{
+			"path": "16 objects-javaScript"
+		},
+		{
+			"path": "17 objectsQuizApp-javaScript"
+		},
+		{
+			"path": "18 webApp - Student Database"
+		},
+		{
+			"path": "Quiz-webApp"
+		},
+		{
+			"path": "RandomBGColorGenerator-webApp"
+		},
+		{
+			"path": "StudentDBSearch"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "RandomBGColorGenerator-webApp"
+	}
+}
